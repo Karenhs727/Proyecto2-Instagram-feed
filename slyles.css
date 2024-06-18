@@ -1,5 +1,5 @@
 .contenedor {
-    background-color: grey;
+    background-color: white;
     padding: 20px;
     display: flex;
     flex-direction: column;
@@ -24,4 +24,9 @@
     justify-content: space-between;
     background-color: lightgrey;
     color: black;
+}
+
+.title-post{
+    display: flex;
+    justify-content: space-between;
 }
